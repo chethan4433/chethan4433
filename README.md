@@ -36,8 +36,6 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
-
 Example:
 Passionate Full Stack Developer specializing in scalable backend systems.
 Love building efficient applications and exploring AI/ML integration.
