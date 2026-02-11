@@ -5,6 +5,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+CHETHAN+KUMAR+S+GOWDA;🚀+FULL+STACK+DEVELOPER;🌟+Open+to+Collaborations!" alt="Typing SVG" />
 </h1>
+<h2>
+  [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](mailto:chethugowda721@gmail.com) 
+**chethugowda721@gmail.com**
+</h2>
 
 <div align="center">
 
@@ -44,8 +48,8 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Python  
-• Javascript    
+• Python (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+• Javascript (https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    
 
 ### 🚀 Backend
 • Django  
