@@ -1,4 +1,4 @@
-# 🚀 CHETHAN KUMAR S GOWDA   
+# 🚀 CHETHAN KUMAR   
 
 <div align="center">
 
@@ -36,7 +36,6 @@
 
 ## 🎯 About Me
 
-Example:
 Passionate Full Stack Developer specializing in scalable backend systems.
 Love building efficient applications and exploring AI/ML integration.
 
@@ -79,26 +78,24 @@ Love building efficient applications and exploring AI/ML integration.
 ## 📈 Top Languages
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
+### 🔹 SHOPIFY-BASED-WEBPAGE
 **Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**Tech Stack:** HTML, CSS, JAVASCRIPT  
+**GitHub:** https://github.com/chethan4433/shopify-based-webpage  
 
 ---
 
-### 🔹 PROJECT_NAME_2
+### 🔹 BMI-CALCULATOR-WITH-MODERN-UI
 **Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**Tech Stack:** HTML, CSS, JAVASCRIPT  
+**GitHub:** https://github.com/chethan4433/BMI-Calculator-with-modern-UI  
 
 ---
 
@@ -126,7 +123,7 @@ I’m open to working on:
 
 📧 Email: chethugowda721@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/chethan-kumar-71a908285/  
-🌐 Portfolio: YOUR_PORTFOLIO_URL  
+🌐 Portfolio: https://github.com/chethan4433/chethan-portfolio-webpage-1  
 
 ---
 
