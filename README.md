@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chethan-kumar-71a908285/)">
+<a href="https://www.linkedin.com/in/chethan-kumar-71a908285/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:chethugowda721@gmail.com">
+<a href="chethugowda721@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://github.com/chethan4433/chethan-portfolio-webpage-1">
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
