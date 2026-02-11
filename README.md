@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:chethugowda721@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:chethugowda721@gmail.com?subject=Hello%20from%20GitHub">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/chethan4433/chethan-portfolio-webpage-1">
@@ -78,7 +78,7 @@ Love building efficient applications and exploring AI/ML integration.
 ## 📈 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true&v=123" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 ---
