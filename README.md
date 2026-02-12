@@ -74,7 +74,8 @@ Love building efficient applications and exploring AI/ML integration.
 ## 📈 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Alternative: WakaTime Stats -->
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chethan4433&theme=radical" alt="Wakatime Stats" />
 </div>
 
 ---
