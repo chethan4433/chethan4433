@@ -74,7 +74,7 @@ Love building efficient applications and exploring AI/ML integration.
 ## 📈 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan4433&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -85,6 +85,13 @@ Love building efficient applications and exploring AI/ML integration.
 **Description:** A modern e-commerce styled frontend project replicating core Shopify UI structure. Focused on layout precision, responsiveness, and clean component organization.  
 **Tech Stack:** HTML, CSS, JAVASCRIPT  
 **GitHub:** https://github.com/chethan4433/shopify-based-webpage  
+
+---
+
+### 🔹 REST-API-in-python
+**Description:** Developed a RESTful Travel API using Python and Flask with full CRUD functionality for managing destination data, Designed and implemented database models using Flask-SQLAlchemy ORM with SQLite integration and tested it in Postman.  
+**Tech Stack:** Python, Flask, SQlite   
+**GitHub:** https://github.com/chethan4433/REST-API-in-python  
 
 ---
 
