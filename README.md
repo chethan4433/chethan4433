@@ -110,7 +110,7 @@ I’m open to working on:
 
 📧 Email: chethugowda721@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/chethan-kumar-71a908285/  
-🌐 Portfolio: https://github.com/chethan4433/chethan-portfolio-webpage-1  
+🌐 Portfolio: https://chethan4433.github.io/chethan-portfolio-webpage-1/  
 
 ---
 
