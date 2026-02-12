@@ -74,8 +74,8 @@ Love building efficient applications and exploring AI/ML integration.
 ## 📈 Top Languages
 
 <div align="center">
-  <!-- Alternative: WakaTime Stats -->
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chethan4433&theme=radical" alt="Wakatime Stats" />
+  <!-- GitHub Profile Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethan4433&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
