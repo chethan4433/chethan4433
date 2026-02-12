@@ -63,7 +63,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chethan4433&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=chethan4433&show_icons=true&theme=radical&hide_border=true" width="48%" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethan4433&theme=radical&hide_border=true" width="48%" />
 
@@ -74,8 +74,7 @@ Love building efficient applications and exploring AI/ML integration.
 ## 📈 Top Languages
 
 <div align="center">
-  <!-- GitHub Profile Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chethan4433&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan4433&token=YOUR_TOKEN_HERE" alt="Top Languages" />
 </div>
 
 ---
